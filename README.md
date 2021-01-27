@@ -1,2 +1,2 @@
-# YanProject
-ERAU-MSSA
+# MSSA-ERAU-ISTA220
+Include: 1. HW 2. EX 3. LAB
