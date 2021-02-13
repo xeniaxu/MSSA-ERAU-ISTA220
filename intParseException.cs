@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 //Write a snippet of code which:
 //calls int.parse("17")
 //handles the appropriate exception if thrown
@@ -27,3 +27,7 @@ namespace intParseException
         }
     }
 }
+
+//Output:
+//17
+//Done!
