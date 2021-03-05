@@ -24,7 +24,7 @@ C#
 
 ## Setup
 Microsoft Visual Studio
-![https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/48px-Visual_Studio_Icon_2019.svg.png)
+(https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon)
 
 ## Code Examples
 
