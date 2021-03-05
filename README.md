@@ -1,4 +1,4 @@
-# Gobang-Game-With-Computer（MSSA Project）
+# MSSA-ERAU-ISTA220
 >MSSA (Cloud Application Developer) is an advanced 19-week technical training course developed by Microsoft teamed with Embry Riddle Aeronautical University (ERAU). 
 >The program leverages college accredited courses and the goal of preparing transitioning service members for technical opportunities in the IT industry utilizing the following skills:
 >☑ Studying the software development lifecycle and how to use it to successfully develop various console-based and graphical applications using C# and Microsoft Visual Studio 2019.
