@@ -9,7 +9,6 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -19,9 +18,6 @@
 
 ## General info
 In class single file project and Leetcode!!!Keep study!!!
-
-## Screenshots
-![https://military.microsoft.com/programs/microsoft-software-systems-academy/](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
 
 ## Technologies
 C#
@@ -42,6 +38,7 @@ Project is: _in progress
 
 ## Inspiration
 Inspired by Micorsoft Cloud Development program
+![https://military.microsoft.com/programs/microsoft-software-systems-academy/](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
 
 ## Contact
 Created by [@yanxu2021](https://www.linkedin.com/in/yanxu2021/) - feel free to contact me!
