@@ -13,7 +13,7 @@
 * [Contact](#contact)
 
 ## General info
-Single project and Unite note!!!Keep doing !!!
+Single Project and Study Unit note!!!Keep doing !!!
 To-do list:
 * Microsoft Visual C# Step by Step, Ninth Edition, John Sharp
 ![Book](https://images-na.ssl-images-amazon.com/images/I/415iwqX-tkL._SX407_BO1,204,203,200_.jpg)
