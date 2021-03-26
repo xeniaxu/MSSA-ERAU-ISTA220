@@ -13,7 +13,7 @@
 * [Contact](#contact)
 
 ## <p align ="center">  General info[🔝](#table-of-contents) </p> 
-Single Project and Study Unit note!!!Keep doing !!!
+<p align ="center">Single Project and Study Unit note!!!Keep doing !!!
 To-do list:
 * Microsoft Visual C# Step by Step, Ninth Edition, John Sharp
 ![Book](https://images-na.ssl-images-amazon.com/images/I/415iwqX-tkL._SX407_BO1,204,203,200_.jpg)
@@ -23,7 +23,7 @@ To-do list:
 ![https://military.microsoft.com/programs/microsoft-software-systems-academy/](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
 
 ## <p align ="center"> Status[🔝](#table-of-contents) </p> 
-Project is: _in progress
+<p align ="center">Project is: _in progress
 
 ## <p align ="center"> Contact[🔝](#table-of-contents) </p> 
-Created by [@yanxu2021](https://www.linkedin.com/in/yanxu2021/) - feel free to contact me!
+<p align ="center">Created by [@yanxu2021](https://www.linkedin.com/in/yanxu2021/) - feel free to contact me!
