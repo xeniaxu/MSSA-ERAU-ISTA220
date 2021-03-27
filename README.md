@@ -16,11 +16,10 @@
 * <p align ="center">Single Project and Study Unit note!!!Keep doing !!!
 * <p align ="center">To-do list:
 * <p align ="center">Microsoft Visual C# Step by Step, Ninth Edition, John Sharp
-![Book](https://images-na.ssl-images-amazon.com/images/I/415iwqX-tkL._SX407_BO1,204,203,200_.jpg)
+![Book]<p align ="center">(https://images-na.ssl-images-amazon.com/images/I/415iwqX-tkL._SX407_BO1,204,203,200_.jpg)
 * <p align ="center">Leetcode
-![https://leetcode.com/](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)
 * <p align ="center">Microsoft Visual Studio
-![https://military.microsoft.com/programs/microsoft-software-systems-academy/](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
+
 
 ## <p align ="center"> Status[🔝](#table-of-contents) </p> 
 <p align ="center">Project is: _in progress
