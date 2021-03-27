@@ -14,10 +14,11 @@
 
 ## <p align ="center">  General info[🔝](#table-of-contents) </p> 
 <p align ="center">Single Project and Study Unit note!!!Keep doing !!!
-<p align ="center">Microsoft Visual C# Step by Step, Ninth Edition, John Sharp
-![Book]<p align ="center">(https://images-na.ssl-images-amazon.com/images/I/415iwqX-tkL._SX407_BO1,204,203,200_.jpg)
-<p align ="center">Leetcode
-<p align ="center">Microsoft Visual Studio
+Microsoft Visual C# Step by Step, Ninth Edition, John Sharp
+<src="https://images-na.ssl-images-amazon.com/images/I/415iwqX-tkL._SX407_BO1,204,203,200_.jpg">
+Leetcode
+Microsoft Visual Studio
+</p>
 
 
 ## <p align ="center"> Status[🔝](#table-of-contents) </p> 
